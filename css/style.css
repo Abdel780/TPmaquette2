@@ -1,0 +1,11 @@
+*{
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+      color: black;
+  }
+   
+  footer{
+      background-color: rgb(33, 37, 41);
+      padding: 15px;
+  }
